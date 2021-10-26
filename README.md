@@ -12,6 +12,8 @@ Tutorial mendownload Flowgorithm
 
   4. buka folder tadi dan klik setup. selesai.
   
+  
+  
 Tutorial membuat hello world di flowgorithm
   
   1. buka aplikasi flogritm yang sudah di install, tampilan awal ada main dan end
